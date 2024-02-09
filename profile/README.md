@@ -6,6 +6,8 @@
 
 [Vlog 2](https://www.youtube.com/watch?v=MLWCTh9qXiw)
 
+[Vlog 3](https://www.youtube.com/watch?v=0sGq36SXuCU)
+
 ## [Nardo Web Interface](https://github.com/nardoring/nardo-web)
 
 This is the main repo with the web interface for our tool and it's CI/CD
