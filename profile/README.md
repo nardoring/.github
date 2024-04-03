@@ -1,4 +1,4 @@
-<!-- # Team Nardo - 2023/2024 Capstone Project -->
+<!-- # Team Visilake - 2023/2024 Capstone Project -->
 
 ## Vlog Links
 
@@ -8,11 +8,11 @@
 
 [Vlog 3](https://www.youtube.com/watch?v=0sGq36SXuCU)
 
-## [Nardo Web Interface](https://github.com/nardoring/nardo-web)
+## [Visilake Web Interface](https://github.com/nardoring/nardo-web)
 
 This is the main repo with the web interface for our tool and it's CI/CD
 
-## [Nardo Tool](https://github.com/nardoring/nardo-proc)
+## [Visilake Tool](https://github.com/nardoring/nardo-proc)
 
 This is the repo for our back end processing tool
 
