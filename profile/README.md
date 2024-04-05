@@ -4,7 +4,9 @@ This is the main repo for our tool and it's CI/CD
 
 ## Project Board
 
-[Roadmap View](https://github.com/orgs/nardoring/projects/2/views/1)
+[Condensed Roadmap View](https://github.com/orgs/nardoring/projects/2/views/4)
+
+[Full Roadmap View](https://github.com/orgs/nardoring/projects/2/views/1)
 
 [List View](https://github.com/orgs/nardoring/projects/2/views/2)
 
