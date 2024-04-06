@@ -1,4 +1,4 @@
-# [Visilake](https://github.com/nardoring/visilake)
+# [VisiLake](https://github.com/nardoring/visilake)
 
 This is the main repo for our tool and it's CI/CD
 
@@ -27,3 +27,7 @@ This is the main repo for our tool and it's CI/CD
 [Vlog 2](https://www.youtube.com/watch?v=MLWCTh9qXiw)
 
 [Vlog 3](https://www.youtube.com/watch?v=0sGq36SXuCU)
+
+## Commercial Link
+
+[VisiLake Commercial](https://www.youtube.com/watch?v=4NRRnoouLXQ)
