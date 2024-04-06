@@ -1,6 +1,16 @@
-# [VisiLake](https://github.com/nardoring/visilake)
+# VisiLake: Self-Service Data Lake Exploration and Analysis on AWS
 
-This is the main repo for our tool and it's CI/CD
+![image](https://github.com/nardoring/.github/assets/47069058/49f2b799-d722-4308-81a1-203cc6309d1b)
+
+## VisiLake Repo
+
+The [VisiLake](https://github.com/nardoring/visilake) repo is the main repo for our tool and it's CI/CD
+
+## Team Members
+
+- Ben Hajdukiewicz (Team Lead, Full-stack Developer)
+- Daniil Aleshechkin (Full-stack Developer)
+- Adam Metz (Full-stack Developer)
 
 ## Project Board
 
