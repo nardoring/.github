@@ -22,7 +22,7 @@ The [VisiLake](https://github.com/nardoring/visilake) repo is the main repo for 
 
 ## Documentation
 
-[Project docs](https://github.com/nardoring/project-docs) is our actual project documentation
+[Project docs](https://github.com/nardoring/project-docs) (private repo) is our actual project documentation
 
 ## Misc
 
